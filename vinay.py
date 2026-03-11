@@ -200,3 +200,6 @@ window = HydrophoneGUI()
 window.show()
 
 sys.exit(app.exec_())
+
+
+#this code creates a PyQt5 GUI application to control a hydrophone recorder via serial communication. It allows users to connect to a serial port, start/stop recording, set RTC time, and view system logs.
